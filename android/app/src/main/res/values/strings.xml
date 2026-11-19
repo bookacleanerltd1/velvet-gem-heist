@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Velvet Gem Heist</string>
+    <string name="app_title">VELVET GEM HEIST</string>
+    <string name="brand_plate">VELVET GEM</string>
+    <string name="splash_subtitle">LIFT THE STONES BEFORE THE HOUSE NOTICES</string>
+    <string name="loading">LOADING</string>
+    <string name="menu_tagline">MATCH THE EVIDENCE. CLOSE THE CASE.</string>
+    <string name="no_cases_yet">NO CASES CLOSED YET</string>
+
+    <string name="play">PLAY</string>
+    <string name="play_again">PLAY AGAIN</string>
+    <string name="menu">MENU</string>
+    <string name="back">BACK</string>
+    <string name="next">NEXT</string>
+    <string name="start">START</string>
+    <string name="claim">CLAIM</string>
+    <string name="claimed">CLAIMED</string>
+    <string name="choose">CHOOSE</string>
+    <string name="resume">RESUME</string>
+    <string name="restart_case">RESTART CASE</string>
+    <string name="leave">LEAVE</string>
+    <string name="cancel">CANCEL</string>
+    <string name="reset">RESET</string>
+    <string name="on">ON</string>
+    <string name="off">OFF</string>
+    <string name="locked">LOCKED</string>
+    <string name="unlocked">OPEN</string>
+
+    <string name="level_map">LEVEL MAP</string>
+    <string name="missions">MISSIONS</string>
+    <string name="rewards">REWARDS</string>
+    <string name="collection">COLLECTION</string>
+    <string name="tutorial">TUTORIAL</string>
+    <string name="settings">SETTINGS</string>
+
+    <string name="go_blind">GO BLIND</string>
+    <string name="go_deeper">GO DEEPER</string>
+    <string name="lockpick">LOCKPICK</string>
+    <string name="hint_lift">TAP A PLATE TO LIFT IT</string>
+    <string name="hint_sweep">TORCH SWEEP · MEMORISE THE STONES</string>
+
+    <string name="stat_score">SCORE</string>
+    <string name="stat_chain">CHAIN</string>
+    <string name="stat_suspicion">SUSPICION</string>
+    <string name="stat_lockpicks">PICKS</string>
+    <string name="stat_best">BEST</string>
+    <string name="stat_gems">GEMS</string>
+    <string name="stat_lifted">LIFTED</string>
+    <string name="stat_best_chain">BEST CHAIN</string>
+    <string name="stat_case">CASE</string>
+    <string name="chain_value">x%1$.1f</string>
+
+    <string name="clue_label">CLUE %1$d OF %2$d</string>
+    <string name="clue_find">FIND EVERY %1$s</string>
+    <string name="room_label">ROOM %1$d / %2$d</string>
+    <string name="plate_number">PLATE %1$d</string>
+    <string name="plate_hidden">face down</string>
+    <string name="plate_locked">lifted</string>
+    <string name="plate_marked">chalk marked</string>
+
+    <string name="gem_ruby">RUBY</string>
+    <string name="gem_emerald">EMERALD</string>
+    <string name="gem_sapphire">SAPPHIRE</string>
+    <string name="gem_topaz">TOPAZ</string>
+    <string name="gem_amethyst">AMETHYST</string>
+
+    <string name="cut_rough">ROUGH</string>
+    <string name="cut_cut">CUT</string>
+    <string name="cut_flawless">FLAWLESS</string>
+
+    <string name="wing_lounge">VELVET LOUNGE</string>
+    <string name="wing_vault">GILDED VAULT</string>
+    <string name="wing_terrace">MIDNIGHT TERRACE</string>
+
+    <string name="branch_title">TWO DOORS</string>
+    <string name="branch_hint">PICK THE WAY DEEPER INTO THE HOUSE</string>
+    <string name="door_curtain">VELVET CURTAIN</string>
+    <string name="door_curtain_note">SCORE x2 · SUSPICION LIMIT 2</string>
+    <string name="door_service">SERVICE HALL</string>
+    <string name="door_service_note">ONE FREE LOCKPICK · SCORE x1</string>
+
+    <string name="pause_title">CASE PAUSED</string>
+    <string name="pause_body">THE HOUSE IS QUIET FOR NOW</string>
+    <string name="exit_title">LEAVE THE HOUSE</string>
+    <string name="exit_body">THIS CASE WILL BE LOST</string>
+
+    <string name="case_closed">CASE CLOSED</string>
+    <string name="alarm_tripped">ALARM TRIPPED</string>
+    <string name="new_record">NEW RECORD</string>
+    <string name="rooms_cleared">%1$s · %2$d OF %3$d ROOMS CLEARED</string>
+    <string name="best_line">BEST %1$s · GEMS %2$s</string>
+    <string name="stars_line">%1$d STARS EARNED</string>
+    <string name="reward_waiting">%1$d NEW REWARD WAITING</string>
+
+    <string name="level_map_subtitle">NINE CASES ACROSS THREE WINGS</string>
+    <string name="levelmap_empty">ONLY THE LOUNGE IS OPEN TONIGHT</string>
+    <string name="stage_label">CASE %1$d</string>
+    <string name="stage_best">BEST %1$s</string>
+    <string name="enter_case">CASE %1$d · THREE ROOMS</string>
+
+    <string name="tutorial_subtitle">FOUR STEPS TO A CLEAN LIFT</string>
+    <string name="step_label">STEP %1$d OF %2$d</string>
+    <string name="tutorial_title_1">THE TORCH SWEEP</string>
+    <string name="tutorial_body_1">Every room opens with a short torch sweep that shows all sixteen plates. Memorise where the stones are before the velvet falls back.</string>
+    <string name="tutorial_title_2">THE CLUE</string>
+    <string name="tutorial_body_2">The brass card names one stone. Find all three plates hiding it, then a second clue takes its place.</string>
+    <string name="tutorial_title_3">SUSPICION AND CHALK</string>
+    <string name="tutorial_body_3">A wrong plate flips back, costs one suspicion pip and leaves a chalk mark you can read. Three pips end the case.</string>
+    <string name="tutorial_title_4">CHAIN AND LOCKPICK</string>
+    <string name="tutorial_body_4">Three matches in a row grant a lockpick that opens a correct plate for free, but the chain resets to zero.</string>
+
+    <string name="rewards_subtitle">VIRTUAL CRATES FOR CLEAN WORK</string>
+    <string name="rewards_empty">NO CRATES YET · CLOSE A CASE TO EARN ONE</string>
+    <string name="rewards_footer">REWARDS ARE VIRTUAL. NO REAL MONEY, NO WAGERING. 18+ VISUAL STYLE ONLY.</string>
+    <string name="reward_brass">BRASS CASE</string>
+    <string name="reward_pouch">VELVET POUCH</string>
+    <string name="reward_casket">GILDED CASKET</string>
+    <string name="reward_brass_goal">REACH 1500 SCORE</string>
+    <string name="reward_pouch_goal">LIFT 60 STONES</string>
+    <string name="reward_casket_goal">CLOSE 3 CASES</string>
+    <string name="gems_total">GEMS %1$s</string>
+    <string name="progress_of">%1$d / %2$d</string>
+
+    <string name="collection_subtitle">FIVE FAMILIES · THREE CUTS EACH</string>
+    <string name="collection_header">%1$d OF %2$d STONES IDENTIFIED</string>
+    <string name="collection_empty">THE CASE IS EMPTY · LIFT YOUR FIRST STONE</string>
+    <string name="stone_title">%1$s %2$s</string>
+    <string name="stone_note">SEEN IN THE %1$s</string>
+    <string name="lifted_count">LIFTED %1$d</string>
+
+    <string name="missions_subtitle">ORDERS FROM THE FENCE</string>
+    <string name="missions_empty">ALL MISSIONS CLEARED · NEW ORDERS AT THE NEXT CASE</string>
+    <string name="mission_lift">LIFT %1$d STONES</string>
+    <string name="mission_clean">CLOSE %1$d ROOMS WITH NO SUSPICION</string>
+    <string name="mission_chain">REACH A CHAIN OF %1$d</string>
+    <string name="mission_reward">REWARD %1$d GEMS</string>
+
+    <string name="settings_subtitle">FOUR DIALS FOR THE HOUSE</string>
+    <string name="setting_reveal">REVEAL SPEED</string>
+    <string name="setting_reveal_note">How long a wrong plate stays face up</string>
+    <string name="speed_slow">SLOW</string>
+    <string name="speed_normal">NORMAL</string>
+    <string name="speed_fast">FAST</string>
+    <string name="setting_chalk">CHALK MARKS</string>
+    <string name="setting_chalk_note">Keep a dashed memory border on missed plates</string>
+    <string name="setting_hint">HINT PLATE</string>
+    <string name="setting_hint_note">Outline one correct plate when a clue starts</string>
+    <string name="setting_motion">REDUCED MOTION</string>
+    <string name="setting_motion_note">Stop the looping decorative animations</string>
+    <string name="reset_progress">RESET PROGRESS</string>
+    <string name="reset_title">RESET EVERYTHING</string>
+    <string name="reset_body">CASES, GEMS, COLLECTION AND MISSIONS WILL BE CLEARED</string>
+    <string name="settings_footer">OFFLINE. NO ACCOUNTS. NO PURCHASES.</string>
+    <string name="version_line">VERSION 1.0</string>
+
+    <string name="cd_logo">Velvet Gem Heist emblem</string>
+    <string name="cd_home">Return to the menu</string>
+    <string name="cd_pause">Pause the case</string>
+    <string name="cd_gem">Gem stone</string>
+</resources>
